@@ -475,6 +475,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 789807151}
     m_Modifications:
     - target: {fileID: -2483926686989959979, guid: 8e2165032e24eb44685df651dd610695, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2483926686989959979, guid: 8e2165032e24eb44685df651dd610695, type: 3}
       propertyPath: rotationSpeed
       value: 3
       objectReference: {fileID: 0}
@@ -1520,6 +1524,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 789807151}
     m_Modifications:
     - target: {fileID: -2483926686989959979, guid: 8e2165032e24eb44685df651dd610695, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2483926686989959979, guid: 8e2165032e24eb44685df651dd610695, type: 3}
       propertyPath: rotationSpeed
       value: 1.5
       objectReference: {fileID: 0}
@@ -1699,6 +1707,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 789807151}
     m_Modifications:
+    - target: {fileID: -2483926686989959979, guid: 8e2165032e24eb44685df651dd610695, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -2483926686989959979, guid: 8e2165032e24eb44685df651dd610695, type: 3}
       propertyPath: rotationSpeed
       value: 2
@@ -3837,6 +3849,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 789807151}
     m_Modifications:
     - target: {fileID: -2483926686989959979, guid: 8e2165032e24eb44685df651dd610695, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2483926686989959979, guid: 8e2165032e24eb44685df651dd610695, type: 3}
       propertyPath: rotationSpeed
       value: 5
       objectReference: {fileID: 0}
@@ -4165,6 +4181,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 789807151}
     m_Modifications:
+    - target: {fileID: -2483926686989959979, guid: 8e2165032e24eb44685df651dd610695, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -2483926686989959979, guid: 8e2165032e24eb44685df651dd610695, type: 3}
       propertyPath: rotationSpeed
       value: 1.3
